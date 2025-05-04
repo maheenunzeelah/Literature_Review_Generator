@@ -14,6 +14,7 @@ ChromaDB	Stores document embeddings and enables efficient semantic search.
 OpenAIEmbeddings	Converts document chunks and user queries into vector representations.
 GPT-4o mini	The LLM (via OpenAI API) that generates human-like responses based on retrieved content.
 Gradio UI	Provides an interactive web interface for users to input queries and view generated outputs.
+To better understand the relationship between the document embeddings, we visualized their distribution using t-SNE
 
 Environment Setup
 API keys and configuration secrets are stored in a .env file. Create this file in the root of your project and add:
