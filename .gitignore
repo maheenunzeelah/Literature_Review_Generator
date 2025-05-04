@@ -1,0 +1,9 @@
+.env
+*.env
+
+# Logs
+*.log
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+.virtual_documents/
